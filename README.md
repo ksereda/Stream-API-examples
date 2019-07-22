@@ -11,3 +11,6 @@ Using: anyMatch, allMatch, noneMatch
 
 ### module_4
 Using: map, mapToInt, flatMap, flatMapToInt
+
+### module_5
+Using: sorted
