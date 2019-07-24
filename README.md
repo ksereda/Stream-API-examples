@@ -14,3 +14,12 @@ Using: map, mapToInt, flatMap, flatMapToInt
 
 ### module_5
 Using: sorted
+
+### module_6
+Using: max, min
+
+### module_7
+Using: forEach, peek
+
+### module_8
+Using: reduce
