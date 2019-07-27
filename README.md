@@ -23,3 +23,6 @@ Using: forEach, peek
 
 ### module_8
 Using: reduce
+
+### module_9
+Using: toArray, collect
