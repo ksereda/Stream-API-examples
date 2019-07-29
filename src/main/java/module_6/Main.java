@@ -40,11 +40,11 @@ public class Main {
 
         // Find the person with the maximum age
         System.out.println("\nTask 4:");
-        People people1 = people.stream().max((s1, s2) -> s1.getAge().compareTo(s2.getAge())).get();
-        System.out.println(people1.getName());
+        String name = people.stream().max((s1, s2) -> s1.getAge().compareTo(s2.getAge())).get().getName();
+        System.out.println(name);
 
-        People people2 = people.stream().max(Comparator.comparing(People::getAge)).get();
-        System.out.println(people2.getName());
+        String name2 = people.stream().max(Comparator.comparing(People::getAge)).get().getName();
+        System.out.println(name2);
 
     }
 }

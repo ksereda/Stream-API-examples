@@ -1,6 +1,8 @@
 ## Java 8: Stream API examples
 
 Solving some tasks with Java 8: Stream API
+
+Here I presented the possible solutions to the tasks: fast and their slow analogs  in terms of memory consumption
 ______
 
 ### module_1

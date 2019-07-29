@@ -37,5 +37,9 @@ public class Main2 {
         }
 
 
+        // Find how often the name Ivan is found
+        System.out.println(collection.stream().filter((s) -> s.getName() != null && s.getName().equals("Ivan")).count());
+
+
     }
 }
