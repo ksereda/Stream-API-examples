@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd4a6a99-14e5-4137-b99e-30139fb9ac4d" name="Default Changelist" comment="" />
+    <list default="true" id="bd4a6a99-14e5-4137-b99e-30139fb9ac4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module_6/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +24,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="278" />
-    <option name="y" value="24" />
-    <option name="width" value="1546" />
-    <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1ObIzXRHPMGZiQFcQFh70zmiWKt" />
   <component name="PropertiesComponent">
@@ -64,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="module_8.Main" />
       <module name="Stream-API-examples" />
@@ -91,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module_5.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module_10.Main" />
       <module name="Stream-API-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module_5.*" />
+          <option name="PATTERN" value="module_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +159,7 @@
       <workItem from="1563968796486" duration="2908000" />
       <workItem from="1564240133471" duration="574000" />
       <workItem from="1564386967637" duration="141000" />
+      <workItem from="1564401201918" duration="2722000" />
     </task>
     <task id="LOCAL-00001" summary="added module_1 to project structure">
       <created>1563713189967</created>
@@ -218,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564387092396</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added module_8 to project structure">
+      <created>1564401270005</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564401270005</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +252,8 @@
     <MESSAGE value="added module_5 to project structure" />
     <MESSAGE value="added module_6 to project structure" />
     <MESSAGE value="added module_7 to project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="added module_7 to project structure" />
+    <MESSAGE value="added module_8 to project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="added module_8 to project structure" />
   </component>
   <component name="masterDetails">
     <states>

@@ -1,5 +1,8 @@
 ## Java 8: Stream API examples
 
+Solving some tasks with Java 8: Stream API
+______
+
 ### module_1
 Using: filter, findFirst, findAny, skip, limit, count
 
