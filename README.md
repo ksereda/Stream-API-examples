@@ -33,7 +33,7 @@ Using: reduce
 Using: toArray, collect
 
 ### module_10
-
+How to iterate map
 
 ### module_11
 
