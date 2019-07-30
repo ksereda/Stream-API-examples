@@ -36,6 +36,10 @@ Using: toArray, collect
 How to iterate map
 
 ### module_11
-
+Get a stream from a piece of array
 
 ### module_12
+
+### module_13
+
+### module_14

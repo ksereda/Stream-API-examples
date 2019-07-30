@@ -61,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="module_12.Main" />
       <module name="Stream-API-examples" />
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module_11.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module_14.Main" />
       <module name="Stream-API-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module_11.*" />
+          <option name="PATTERN" value="module_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module_6.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module_11.Main" />
       <module name="Stream-API-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module_6.*" />
+          <option name="PATTERN" value="module_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,7 @@
       <workItem from="1564240133471" duration="574000" />
       <workItem from="1564386967637" duration="141000" />
       <workItem from="1564401201918" duration="9583000" />
-      <workItem from="1564468148064" duration="1324000" />
+      <workItem from="1564468148064" duration="3941000" />
     </task>
     <task id="LOCAL-00001" summary="added module_1 to project structure">
       <created>1563713189967</created>
@@ -245,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564468256253</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added module_10">
+      <created>1564477916937</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1564477916937</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +284,8 @@
     <MESSAGE value="added some tasks in module_6" />
     <MESSAGE value="added some tasks in module_1, updated module_6" />
     <MESSAGE value="added module_9 - collect" />
-    <option name="LAST_COMMIT_MESSAGE" value="added module_9 - collect" />
+    <MESSAGE value="added module_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="added module_10" />
   </component>
   <component name="masterDetails">
     <states>
