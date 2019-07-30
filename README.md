@@ -39,6 +39,7 @@ How to iterate map
 Get a stream from a piece of array
 
 ### module_12
+Find all points in the given line
 
 ### module_13
 
