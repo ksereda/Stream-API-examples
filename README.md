@@ -46,3 +46,6 @@ Convert multidimensional array to one-dimensional array
 
 ### module_14
 Fibonacci solutions
+
+### module_15
+Multiply all elements by 2
