@@ -42,5 +42,6 @@ Get a stream from a piece of array
 Find all points in the given line
 
 ### module_13
+Convert multidimensional array to one-dimensional array
 
 ### module_14
